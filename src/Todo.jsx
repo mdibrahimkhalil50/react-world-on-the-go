@@ -7,4 +7,11 @@ export default function ToDo({ task, isDone, time }) {
   : 
     <li>All information are wrong. Please try again.</li>
   ;
+   /*
+   
+   agolo app.jsx a bosaba 
+   <ToDo task="learn react fundamental concept" isDone={true} time='4.0pm'></ToDo>
+     <ToDo task="learn react fundamental concept" isDone={false} time='4.0pm'></ToDo>
+     <ToDo task="learn react fundamental concept" isDone={true} time='4.0pm'></ToDo>
+     <ToDo task="learn react fundamental concept" isDone={false} time='4.0pm'></ToDo> */
 }

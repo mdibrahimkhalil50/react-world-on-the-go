@@ -10,6 +10,9 @@
     display: block;
     margin-bottom: 10px;
 }
+.country-visited{
+    background-color: dodgerblue;
+}
 
 @media (max-width: 700px) {
     .countries-container {
